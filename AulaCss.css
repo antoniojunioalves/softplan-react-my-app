@@ -1,0 +1,27 @@
+/* Tags */
+header{
+    background-color: blue;
+    height: 100px;
+}
+
+footer{
+    background-color: blue;
+    height: 50px;
+    clear: both;
+}
+
+/* ID's */
+
+#div-esquerda{
+    background-color: red;
+    float: left;
+    width: 75%;
+    height: 450px;
+}
+
+#div-direita{
+    background-color: green;
+    float: right;
+    width: 25%;
+    height: 450px;
+}
